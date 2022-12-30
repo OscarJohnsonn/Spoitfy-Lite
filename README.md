@@ -1,4 +1,4 @@
-# ![Logo](https://raw.githubusercontent.com/OscarJohnsonn/Spoitfy-Lite/main/spotify-icon.png) Spotify-Lite
+# <img src="https://raw.githubusercontent.com/OscarJohnsonn/Spoitfy-Lite/main/spotify-icon.png" alt="Logo" width="50"/> Spotify-Lite
 A Light-Weight Spotify Client written in **Python**, with love. 
 
 ## ❓ Explanation
