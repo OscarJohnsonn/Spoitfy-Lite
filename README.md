@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/OscarJohnsonn/Spoitfy-Lite/main/spotify-icon.png" alt="Logo" width="50"/> Spotify-Lite
-A Light-Weight Spotify Client written in **Python**, with love. 
+A Light-Weight Spotify Client written in **Python**.
 
 ## ❓ Explanation
 You may have possibly heard and used Spotify once in your life, right?
