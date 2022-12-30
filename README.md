@@ -1,5 +1,5 @@
-# [![Logo by u/Hoodie-the-Wolf](https://i.imgur.com/D0fAK42.png)](https://www.reddit.com/user/Hoodie-the-Wolf/) Discord-Lite
-A Light-Weight Discord Client written in **Python**, with love. 
+#(https://raw.githubusercontent.com/OscarJohnsonn/Spoitfy-Lite/main/spotify-icon.png) Spotify-Lite
+A Light-Weight Spotify Client written in **Python**, with love. 
 
 ## ❓ Explanation
 You may have possibly heard and used Spotify once in your life, right?
