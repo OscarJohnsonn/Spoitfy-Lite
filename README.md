@@ -30,4 +30,4 @@ Happy Coding, nonetheless! ^^
 You can download the Installer from [this](https://github.com/OscarJohnsonn/Spoitfy-Lite/releases/download/v1.0/spotify-Lite.exe) link.
 
 After that, open `spotify-Lite.exe` from your desktop.\
-You should be able to use Spotify just as you can with any other client. :D
+You should be able to use Spotify just as you can with any other client.
